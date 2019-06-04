@@ -16,3 +16,8 @@ p.intro {
 img.intro {
    width: 33%;
 }
+
+.cord {
+  border: solid 4px;
+  background-color: blue;
+}
